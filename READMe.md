@@ -89,6 +89,11 @@ User U50: ['P74', 'P26', 'P7']
 
 The notebook outputs the top 3 recommendations for each user and the calculated evaluation metrics (Average Precision@3, Average Recall@3, and MAP).
 
+**Mean Average Precision (MAP):** 0.0370
+
+**Average Precision@3**: 0.1733
+**Average Recall@3**: 0.0511
+
 ## Potential Extensions
 
 Several potential extensions could be explored to improve the recommendation system:
